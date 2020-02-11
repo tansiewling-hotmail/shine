@@ -61,3 +61,6 @@ gem 'foreman'
 
 # User authentication
 gem 'devise'
+
+# Faker
+gem 'faker'
